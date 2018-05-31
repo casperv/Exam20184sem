@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animations in Android</string>
+    <string name="Property_Animation">Property Animations </string>
+    <string name="title_activity_transitions">ActivityTransitions</string>
+    <string name="title_activity_drawable_animation">DrawableAnimation</string>
+    <string name="DrawAbleAnimation">Drawable Animations</string>
+</resources>
